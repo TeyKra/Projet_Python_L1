@@ -1,4 +1,4 @@
-# Projet_Python_L1
+# Project_Python_L1
 
 # Preamble
 
